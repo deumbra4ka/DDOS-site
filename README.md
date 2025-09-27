@@ -1,1 +1,2 @@
-# DDOS-site
+# Winlocker by deumbra
+password 34678822
